@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace UnicomSix
 {
-    public partial class Form1 : Form
+    public partial class MainV2 : Form
     {
-        public Form1()
+        public MainV2()
         {
             InitializeComponent();
         }
